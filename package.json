@@ -10,6 +10,6 @@
   "author": "Kien Nguyen",
   "license": "ISC",
   "dependencies": {
-    "sharp": "^0.25.4"
+    "sharp": "^0.30.5"
   }
 }
